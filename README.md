@@ -1,5 +1,5 @@
 # CSE103 Lab --LAB 3:GitHub Collaborations & API Interaction
-![Last Commit](https://img.shields.io/github/last-commit/aroraavisha-netizen/cse103-lab-LAB3)
+![Last Commit](https://img.shields.io/github/last-commit/aroraavisha08-netizen/cse103-lab-LAB3)
 ![Language](https://img.sheilds.io/badge/language-PYTHON-blue)
 ![Status](https://img.sheilds.io/badge/status-active-brightgreen)
 ## Overview
